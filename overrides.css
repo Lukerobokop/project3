@@ -1,0 +1,20 @@
+@import url(foundation.min.css);
+@font-face {
+  font-family: 'moon-reg';
+  src: url(../../public/fonts/Moon2.0-Regular.WOFF); }
+@font-face {
+  font-family: 'moon-light';
+  src: url(../../public/fonts/Moon2.0-Light.WOFF); }
+@font-face {
+  font-family: 'moon-bold';
+  src: url(../../public/fonts/Moon2.0-Bold.WOFF); }
+body {
+  font-family: 'moon-reg', sans-serif;
+  background-color: #222;
+  color: white; }
+
+#moon {
+  border-radius: 50%;
+  float: right; }
+
+/*# sourceMappingURL=overrides.css.map */
